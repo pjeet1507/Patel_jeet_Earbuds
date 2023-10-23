@@ -1,4 +1,5 @@
 # Patel_jeet_Earbuds
+![hero Img](./images/Hero-img)
 
 # Jazz Earbuds
 
